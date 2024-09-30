@@ -9,13 +9,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #c9b79c;
     padding: 0;
     margin: 0;
 }
 
 header {
-    background-color: #004aad; /* Trade Point theme color */
+    background-color: #71816d; /* Trade Point theme color */
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -59,7 +59,7 @@ main {
 
 /* Hero Section */
 #hero {
-    background-color: #e0e7ff;
+    background-color: #f1e0c5;
     padding: 50px;
     text-align: center;
     margin-bottom: 20px;
@@ -67,7 +67,7 @@ main {
 
 #hero h2 {
     font-size: 2rem;
-    color: #004aad;
+    color: #71816d;
     margin-bottom: 15px;
 }
 
@@ -77,7 +77,7 @@ main {
 }
 
 .cta-btn {
-    background-color: #004aad;
+    background-color: #71816d;
     color: white;
     padding: 10px 25px;
     text-decoration: none;
@@ -110,7 +110,7 @@ main {
 
 .service h3 {
     font-size: 1.5rem;
-    color: #004aad;
+    color: #71816d;
     margin-bottom: 10px;
 }
 
@@ -138,7 +138,7 @@ main {
 
 /* Footer Section */
 footer {
-    background-color: #004aad;
+    background-color: #71816d;
     color: white;
     padding: 20px 0;
     text-align: center;
